@@ -74,7 +74,7 @@ void sned(char * buffer){
 int main( void ) {
 	
 	/* zmienne predefiniowane *****************************************/
-	int  port   = 12344;
+	int  port   = 12343;
 	
 	/* zmienne niezainicjowane ****************************************/		
 	int 		fd;
